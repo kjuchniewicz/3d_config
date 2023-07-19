@@ -1,0 +1,5 @@
+printer_config:
+- M220 S100
+- M221 T0 S100
+- M204 S600.00
+version: 2.2.7

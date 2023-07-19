@@ -1,0 +1,12 @@
+vuko:
+    active: true
+    apikey: null
+    groups:
+    - admins
+    - users
+    password: c250ce60ff12a0db41d0938ec01a02f1229515f2a7e2550e8088fdf5968f0b8d6ed93f279d81346d5788b6eaa99ec1edbcd7d16e64dedf9200acbcf46ffc96c7
+    permissions: []
+    roles:
+    - user
+    - admin
+    settings: {}

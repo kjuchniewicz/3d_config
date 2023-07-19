@@ -1,0 +1,72 @@
+print_history:
+- analysisFirstFilamentPrintTime: 3.2481806464079455
+  analysisLastFilamentPrintTime: 1355.4465226446273
+  analysisPrintTime: 1355.504056313483
+  compensatedPrintTime: 1604.4544277484522
+  firstFilamentPrintTime: 188.21330038199994
+  lastFilamentPrintTime: 1621.5873676130002
+  payload:
+    name: print-fan-support_v4_SSLC.aw.gcode
+    origin: local
+    owner: vuko
+    path: print-fan-support_v4_SSLC.aw.gcode
+    size: 393185
+    time: 1625.2318533619998
+  timestamp: 1612791582.369742
+- analysisFirstFilamentPrintTime: 1.9326710814850117
+  analysisLastFilamentPrintTime: 392.7289857912127
+  analysisPrintTime: 392.7865194600685
+  compensatedPrintTime: 586.0878618630611
+  firstFilamentPrintTime: 170.83172049201676
+  lastFilamentPrintTime: 582.1607440750231
+  payload:
+    name: print-fan-support-small_v1_SSLC.gcode
+    origin: local
+    owner: vuko
+    path: print-fan-support-small_v1_SSLC.gcode
+    size: 325227
+    time: 585.5212682110141
+  timestamp: 1612005867.055854
+- analysisFirstFilamentPrintTime: 2.746032821037602
+  analysisLastFilamentPrintTime: 919.4052682514265
+  analysisPrintTime: 919.4628019202823
+  compensatedPrintTime: 1232.3116104019002
+  firstFilamentPrintTime: 139.01302065100754
+  lastFilamentPrintTime: 1107.8017552730162
+  payload:
+    name: print-fan-support_v3_SSLC.gcode
+    origin: local
+    owner: vuko
+    path: print-fan-support_v3_SSLC.gcode
+    size: 296788
+    time: 1110.9197358660167
+  timestamp: 1612003778.877839
+- analysisFirstFilamentPrintTime: 2.016654018254485
+  analysisLastFilamentPrintTime: 516.3541144267544
+  analysisPrintTime: 516.4116480956103
+  compensatedPrintTime: 824.202447737367
+  firstFilamentPrintTime: 186.3112796439964
+  lastFilamentPrintTime: 741.3434001750138
+  payload:
+    name: adapter-printer_V3_SSLC.gcode
+    origin: local
+    owner: vuko
+    path: adapter-printer_V3_SSLC.gcode
+    size: 356963
+    time: 744.102268446004
+  timestamp: 1612002363.642916
+- analysisFirstFilamentPrintTime: 1.9510621715085108
+  analysisLastFilamentPrintTime: 3288.585267320659
+  analysisPrintTime: 3288.642800989515
+  compensatedPrintTime: 3875.985640780819
+  firstFilamentPrintTime: 139.5778391089989
+  lastFilamentPrintTime: 3447.649027979991
+  payload:
+    name: RolkaFilamentu_SSLC.gcode
+    origin: local
+    owner: vuko
+    path: RolkaFilamentu_SSLC.gcode
+    size: 1442285
+    time: 3451.212686583982
+  timestamp: 1611946453.987912
+version: 2.2.7
